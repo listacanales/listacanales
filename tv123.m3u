@@ -1,0 +1,183 @@
+#EXTM3U 
+EXTINF:29, TVS Maracay | VE
+#EXTVLCOPT:network-caching=1000
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
+#EXTINF:20,La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,1+1 (1080p)
+https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+#EXTINF:0,Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:20,RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia | VE
+https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="147" tvg-name=" NHK World Espanol" tvg-logo="https://i.imgur.com/8dml3im.png",  NHK World Espanol | Japon
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+#EXTINF:-1 tvg-id="1573" tvg-name="Net Channel" tvg-logo="https://cdn.m3u.cl/logo/1573_Net_Channel.png", Net Channel | VE
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="147" tvg-name="Reforma TV" tvg-logo="https://cdn.m3u.cl/logo/147_Reforma_TV.png", Reforma TV | VE
+https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="148" tvg-name="Telearagua" tvg-logo="https://cdn.m3u.cl/logo/148_Telearagua.png", Telearagua | VE
+http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://cdn.m3u.cl/logo/149_Televen.png", Televen | VE
+https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/fstl=exp=1722281392~data=ip=181.43.37.152%2Cid=TLV-GUEST%2Cpid=255%2Cdid=N%2FA%2Csid=WBS~acl=%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~hmac=fb5c2d11a06fd63fd0c00a49ea2ac757b8351e8828822d8ca8cc8a2d0c200dfd/index_2.m3u8?AVC_DATE=2024-07-28&AVC_INVIEW=1&AVC_INVIEWPERC=100&AV_CATEGORY=IAB1-7&AV_CCPA=1YYY&AV_CHANNEL_NAME=Televen+HD&AV_CONTENT_TYPE=LIVE&AV_DNT=0&AV_DTRACK=1&AV_LANGUAGE=Sp&AV_SECURED=1&AV_SITE_CATEGORY=IAB1-7&AV_TITLE=Tele&PlaylistM3UCL
+#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://cdn.m3u.cl/logo/499_Telesur.png", Telesur | VE
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="500" tvg-name="Telesur English" tvg-logo="https://cdn.m3u.cl/logo/500_Telesur_English.png", Telesur English | VE
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="18" tvg-name="ShowVen TV" tvg-logo="https://cdn.m3u.cl/logo/18_ShowVen_TV.png", ShowVen TV | VE
+https://vcp1.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="518" tvg-name="TVS Maracay" tvg-logo="https://cdn.m3u.cl/logo/518_TVS_Maracay.png", TVS Maracay | VE
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="519" tvg-name="Canal i" tvg-logo="https://cdn.m3u.cl/logo/519_Canal_i.png", Canal i | VE
+https://vcp10.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png", Venevision | VE
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV | CL
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 | CL
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | CL
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://cdn.m3u.cl/logo/14_Urban_TV.png", Urban TV | ES
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV | CL
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="855" tvg-name="Natanael TV" tvg-logo="https://cdn.m3u.cl/logo/855_Natanael_TV.png", Natanael TV | PA
+https://stmv1.voxhdnet.com/natanael040322/natanael040322/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV | VE
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://cdn.m3u.cl/logo/926_Oxigeno_Network.png", Oxigeno Network | VE
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="924" tvg-name="Realtor TV" tvg-logo="https://cdn.m3u.cl/logo/924_Realtor_TV.png", Realtor TV | VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://cdn.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://cdn.m3u.cl/logo/928_MovieFE.png", MovieFE | VE
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="927" tvg-name="Anzoategui TV" tvg-logo="https://cdn.m3u.cl/logo/927_Anzoategui_TV.png", Anzoategui TV | VE
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV | CL
+https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1203" tvg-name="Chivacoa TV" tvg-logo="https://cdn.m3u.cl/logo/1203_Chivacoa_TV.png", Chivacoa TV | VE
+https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1217" tvg-name="eSports Max TV" tvg-logo="https://cdn.m3u.cl/logo/1217_eSports_Max_TV.png", eSports Max TV | VE
+https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1221" tvg-name="Cantina TV" tvg-logo="https://cdn.m3u.cl/logo/1221_Cantina_TV.png", Cantina TV | VE
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1224" tvg-name="TRV" tvg-logo="https://cdn.m3u.cl/logo/1224_TRV.png", TRV | VE
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1228" tvg-name="Telesol" tvg-logo="https://cdn.m3u.cl/logo/1228_Telesol.png", Telesol | VE
+https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1227" tvg-name="TV FANB" tvg-logo="https://cdn.m3u.cl/logo/1227_TV_FANB.png", TV FANB | VE
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1226" tvg-name="Vale TV" tvg-logo="https://cdn.m3u.cl/logo/1226_Vale_TV.png", Vale TV | VE
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://cdn.m3u.cl/logo/1325_MDA_TV.png", MDA TV | VE
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1326" tvg-name="Globovision" tvg-logo="https://cdn.m3u.cl/logo/1326_Globovision.png", Globovision | VE
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1327" tvg-name="TRT" tvg-logo="https://cdn.m3u.cl/logo/1327_TRT.png", TRT | VE
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1400" tvg-name="Torococo TV" tvg-logo="https://cdn.m3u.cl/logo/1400_Torococo_TV.png", Torococo TV | VE
+https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1439" tvg-name="Canal Diplomatico" tvg-logo="https://cdn.m3u.cl/logo/1439_Canal_Diplomatico.png", Canal Diplomatico | VE
+https://vcp7.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="145" tvg-name="Corazon Llanero" tvg-logo="https://cdn.m3u.cl/logo/145_Corazon_Llanero.png", Corazon Llanero | VE
+https://vcp11.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1440" tvg-name="Plous TV" tvg-logo="https://cdn.m3u.cl/logo/1440_Plous_TV.png", Plous TV | VE
+https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1438" tvg-name="Somos TV" tvg-logo="https://cdn.m3u.cl/logo/1438_Somos_TV.png", Somos TV | VE
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1573" tvg-name="Net Channel" tvg-logo="https://cdn.m3u.cl/logo/1573_Net_Channel.png", Net Channel | VE
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1575" tvg-name="Barinas TV" tvg-logo="https://cdn.m3u.cl/logo/1575_Barinas_TV.png", Barinas TV | VE
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1592" tvg-name="Televisora Andina de Merida" tvg-logo="https://cdn.m3u.cl/logo/1592_Televisora_Andina_de_Merida.png", Televisora Andina de Merida | VE
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1593" tvg-name="Aguacate TV" tvg-logo="https://cdn.m3u.cl/logo/1593_Aguacate_TV.png", Aguacate TV | VE
+https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1594" tvg-name="Guaro TV" tvg-logo="https://cdn.m3u.cl/logo/1594_Guaro_TV.png", Guaro TV | VE
+https://streamtv.intervenhosting.net:3061/live/guarotvbqtolive.m3u8?PlaylistM3UCL
+https://streamtv.intervenhosting.net:3061/live/guarotvbqtolive.m3u8?PlaylistM3UCL
+#EXTINF:0, La 1 | ES
+https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
+#EXTINF:32, Vale TV | VE
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, La 2 | ES
+https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
+#EXTINF:30,Globovision (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
+#EXTINF:0,Pluto TV Nick Latino (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:30,1+1 (1080p)
+https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+#EXTINF:0,Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,Gen TV
+http://tvpremiumhd.club/lista-gratuita/213012/tv/live.php?id=1254
+#EXTINF:0,Gen TV GenTV.ar
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:0, TVS Maracay | VE
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Pluto TV Nick Rewind (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ed106ce4bf2e80007700bb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1f8c3bd8-0715-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:0,Pluto TV Nick Ukraine (720p)
+http://siloh-sp.plutotv.net/lilo/production/NickUkraine/master.m3u8
+#EXTINF:36,Rakuten Documentaries
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:21,Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:100,EWTN el Canal Católico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:96,Sony Movie Channel (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+
+#EXTINF:0,   The Disney XD East of https://iptv-org.github.io/?q=languages:spa
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:0,   Nick Clasico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0, ANIMESTATION (Argentina)
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+#EXTINF:0,  Avila TV
+https://cloud.odysee.live/content/9fc00ad00fd8b0f08ab11f2324c82ffd713c3cb6/master.m3u8
+#EXTINF:0,   VIVOplay
+https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8
+#EXTINF:0,   VPITV 1
+https://ythls.armelin.one/channel/UCVFiIRuxJ2GmJLUkHmlmj4w.m3u8
+#EXTINF:0,   VPITV 2
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:0,   Venevision Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:0,   TV Familia venezuela
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
+#EXTINF:0,  Castilla La-Mancha version 1
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0,  Castilla La-Mancha version 2
+https://ztnr.rtve.es/ztnr/5655969.m3u8
+
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+https://ztnr.rtve.es/ztnr/5655969.m3u8
+
+#EXTINF:0,  RCTV Aprieta y Gana
+https://www.youtube.com/watch?v=4uT6HCo-dGY
+#EXTINF:0,   Sun Channel
+https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
+#EXTINF:0,  TVES
+https://ls.tves.gob.ve/hls/tves.m3u8
+
+
+
+
+
