@@ -141,7 +141,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:96,Sony Movie Channel (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-
+#EXTINF:-1 tvg-id="1421" tvg-name="13 Kids" tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png", 13 Kids | CL
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
 #EXTINF:0,   The Disney XD East of https://iptv-org.github.io/?q=languages:spa
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:0,   Nick Clasico
