@@ -120,7 +120,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 #EXTINF:30, cgtn
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:30,1+1 (1080p)
-https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:0,Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:20, canal 30
@@ -133,8 +133,7 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,Pluto TV Nick Rewind (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ed106ce4bf2e80007700bb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1f8c3bd8-0715-11eb-97af-0242ac110002&terminate=false&userId=
-#EXTINF:0,Pluto TV Nick Ukraine (720p)
-http://siloh-sp.plutotv.net/lilo/production/NickUkraine/master.m3u8
+
 #EXTINF:36,Rakuten Documentaries
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:21,Cartoon Network Latino
@@ -182,7 +181,7 @@ https://ztnr.rtve.es/ztnr/5655969.m3u8
 #EXTINF:30,1+1 (1Plus1.ua)
 https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 #EXTINF:30,1+1 (1080p)
-https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:0,Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,  RCTV Aprieta y Gana
