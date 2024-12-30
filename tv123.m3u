@@ -1,7 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Int. América" tvg-name="NASA TV Public",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 EXTINF:29, TVS Maracay | VE
 #EXTVLCOPT:network-caching=1000
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
