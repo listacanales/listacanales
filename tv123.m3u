@@ -171,8 +171,7 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0,  Castilla La-Mancha version 2
 https://ztnr.rtve.es/ztnr/5655969.m3u8
-#EXTINF:0,scl.edge.grupoz.cl
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:0,aegis-cloudfront-1.tubi.video
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 
