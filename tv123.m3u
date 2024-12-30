@@ -6,15 +6,9 @@ https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:30,ukraine tv
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:30,1+1 (1Plus1.ua)
-https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
-#EXTINF:30,1+1 (1080p)
-https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
-#EXTINF:0,Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:20,RT en Español (1080p) [Geo-blocked]
+
+
+#EXTINF:20,RT en Español (1080p)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia | VE
 https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8?PlaylistM3UCL
@@ -115,6 +109,9 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, La 2 | ES
 https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
+#EXTINF:30,ukraine tv
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
 #EXTINF:30,Globovision (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
 #EXTINF:0,Pluto TV Nick Latino (720p) [Not 24/7]
@@ -174,17 +171,24 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0,  Castilla La-Mancha version 2
 https://ztnr.rtve.es/ztnr/5655969.m3u8
-
+#EXTINF:0,scl.edge.grupoz.cl
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,aegis-cloudfront-1.tubi.video
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
-https://ztnr.rtve.es/ztnr/5655969.m3u8
 
+#EXTINF:0,rtve
+https://ztnr.rtve.es/ztnr/5655969.m3u8
+#EXTINF:30,1+1 (1Plus1.ua)
+https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+#EXTINF:30,1+1 (1080p)
+https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+#EXTINF:0,Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,  RCTV Aprieta y Gana
 https://www.youtube.com/watch?v=4uT6HCo-dGY
 #EXTINF:0,   Sun Channel
 https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
-#EXTINF:0,  TVES
-https://ls.tves.gob.ve/hls/tves.m3u8
+
 
 
 
