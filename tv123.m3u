@@ -6,7 +6,8 @@ https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:20, MAX Anime
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 #EXTINF:20,RT en Español (1080p)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
