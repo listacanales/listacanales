@@ -414,3 +414,808 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
 
 
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1131' tvg-name='Carolina TV' tvg-logo='https://iptvgratis.cl/logocanal/Carolina_TV.png', Carolina TV * | CL
+https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='508' tvg-name='Mundo De La Música' tvg-logo='https://iptvgratis.cl/logocanal/Mundo.png', Mundo De La Música * | CL
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='781' tvg-name='La Red' tvg-logo='https://iptvgratis.cl/logocanal/La_Red.jpg', La Red * | CL
+https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='211' tvg-name='TV +' tvg-logo='https://iptvgratis.cl/logocanal/TV_mas.png', TV + * | CL
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='730' tvg-name='Spectrum Channel' tvg-logo='https://iptvgratis.cl/logocanal/Spectrum.png', Spectrum Channel * | CL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='59' tvg-name='UCV' tvg-logo='https://iptvgratis.cl/logocanal/UCV.png', UCV * | CL
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='278' tvg-name='Madero' tvg-logo='https://iptvgratis.cl/logocanal/Madero_TV.png', Madero * | CL
+https://videostreaming.cloudserverlatam.com:443/8040/8040/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='742' tvg-name='ADN Radio' tvg-logo='https://www.iptvgratis.cl/logocanal/adnradio.png', ADN Radio * | CL
+https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1270' tvg-name='Conecta TV' tvg-logo='https://www.iptvgratis.cl/logocanal/conecta.png', Conecta TV * | MX
+https://stream8.mexiserver.com:443/conectatv/conectatv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1491' tvg-name='Mega' tvg-logo='https://iptvgratis.cl/logocanal/mega.png', Mega * | CL
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1208' tvg-name='RTVE' tvg-logo='https://www.iptvgratis.cl/logocanal/rtve.png', RTVE * | Otro
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='934' tvg-name='DW Español' tvg-logo='https://www.iptvgratis.cl/logocanal/dw.png', DW Español * | CL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='93' tvg-name='HispanTV' tvg-logo='https://www.iptvgratis.cl/logocanal/hispantv.png', HispanTV * | CL
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='548' tvg-name='RadioMania' tvg-logo='https://radiomania.cl/wp-content/uploads/2021/09/Sin-ti%CC%81tulo-1-Recuperado-300x102.png', RadioMania * | CL
+https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='73' tvg-name='Tv Hit' tvg-logo='https://www.iptvgratis.cl/logocanal/tvhit.png', Tv Hit * | CL
+https://paneltv.online:1936/8156/8156/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1471' tvg-name='Control.VG' tvg-logo='https://www.iptvgratis.cl/logocanal/Control.VG.png', Control.VG * | CL
+https://tls-cl.cdnz.cl/onradio-5/live/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='744' tvg-name='Retro Plus' tvg-logo='https://www.iptvgratis.cl/logocanal/retroplus.png', Retro Plus * | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='639' tvg-name='Latino Kids' tvg-logo='https://www.iptvgratis.cl/logocanal/latinokids.png', Latino Kids * | AR
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='215' tvg-name='Canal13 San Luis' tvg-logo='https://www.iptvgratis.cl/logocanal/canal13sanluis.png', Canal13 San Luis * | AR
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1374' tvg-name='XFN' tvg-logo='https://www.iptvgratis.cl/logocanal/xfn.png', XFN * | AR
+https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='341' tvg-name='Crossing TV' tvg-logo='https://www.iptvgratis.cl/logocanal/crossing.png', Crossing TV * | AR
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='816' tvg-name='Neo TV' tvg-logo='https://www.iptvgratis.cl/logocanal/neotv.png', Neo TV * | AR
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='387' tvg-name='Señal Urbana' tvg-logo='https://www.iptvgratis.cl/logocanal/senalurbana.png', Señal Urbana * | AR
+https://fullvideo.enlaweb.com.ar/video95/video95/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='952' tvg-name='Tele Mix' tvg-logo='https://www.iptvgratis.cl/logocanal/telemix.png', Tele Mix * | AR
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='288' tvg-name='Ucl' tvg-logo='https://www.iptvgratis.cl/logocanal/ucl.png', Ucl * | AR
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='608' tvg-name='Sext TV' tvg-logo='https://www.iptvgratis.cl/logocanal/sextv.png', Sext TV * | AR
+https://streamconex.com:1936/sextv/sextv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1262' tvg-name='Paka Paka' tvg-logo='https://www.iptvgratis.cl/logocanal/pakapaka.jpg', Paka Paka * | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='637' tvg-name='13 Max Television' tvg-logo='https://www.iptvgratis.cl/logocanal/13maxtelevision.png', 13 Max Television * | AR
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1404' tvg-name='5TV' tvg-logo='https://www.iptvgratis.cl/logocanal/5tv.png', 5TV * | AR
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='988' tvg-name='Aire Santa Fe' tvg-logo='https://www.iptvgratis.cl/logocanal/airesantafe.png', Aire Santa Fe * | AR
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='234' tvg-name='Argentinisima Satelital' tvg-logo='https://www.iptvgratis.cl/logocanal/argentinisima.png', Argentinisima Satelital * | AR
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='175' tvg-name='Bayres TV' tvg-logo='https://www.iptvgratis.cl/logocanal/bayrestv.png', Bayres TV * | AR
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='963' tvg-name='Cadena 103' tvg-logo='https://www.iptvgratis.cl/logocanal/cadena103.png', Cadena 103 * | AR
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='3' tvg-name='Canal 10' tvg-logo='https://www.iptvgratis.cl/logocanal/canal10.png', Canal 10 * | AR
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='114' tvg-name='Nubeh TV' tvg-logo='https://www.iptvgratis.cl/logocanal/NubehTV.png', Nubeh TV * | VE
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1166' tvg-name='Canal Rio Negro' tvg-logo='https://www.iptvgratis.cl/logocanal/canalrionegro.png', Canal Rio Negro * | AR
+https://panel.dattalive.com:443/8204/8204/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1079' tvg-name='Canal 13 Yujuy' tvg-logo='https://www.iptvgratis.cl/logocanal/canal13yujuy.png', Canal 13 Yujuy * | AR
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1336' tvg-name='Canal 22' tvg-logo='https://www.iptvgratis.cl/logocanal/canal22.jpg', Canal 22 * | AR
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1087' tvg-name='Agrobrasil TV' tvg-logo='https://www.iptvgratis.cl/logocanal/agrobrasiltv.png', Agrobrasil TV * | BR
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1163' tvg-name='Araruna TV' tvg-logo='https://www.iptvgratis.cl/logocanal/ararunatv.png', Araruna TV * | BR
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='642' tvg-name='Band TV' tvg-logo='https://www.iptvgratis.cl/logocanal/band.png', Band TV * | BR
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='816' tvg-name='Classique' tvg-logo='https://www.iptvgratis.cl/logocanal/classiquetv.png', Classique * | BR
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1171' tvg-name='LassTV' tvg-logo='https://www.iptvgratis.cl/logocanal/lasstv.png', LassTV * | BR
+https://streaming03.zas.media:1936/lasstv/lasstv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='415' tvg-name='NTV' tvg-logo='https://www.iptvgratis.cl/logocanal/ntv.png', NTV * | BR
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='918' tvg-name='Record News' tvg-logo='https://www.iptvgratis.cl/logocanal/recordnews.png', Record News * | BR
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='173' tvg-name='Bolivia TV 7.2' tvg-logo='https://www.iptvgratis.cl/logocanal/boliviatv.png', Bolivia TV 7.2 * | BO
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='778' tvg-name='Boliviavision' tvg-logo='https://www.iptvgratis.cl/logocanal/boliviavision.png', Boliviavision * | BO
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='336' tvg-name='Pat' tvg-logo='https://www.iptvgratis.cl/logocanal/Pat.png', Pat * | BO
+https://master.tucableip.com/pat/playlist.m3u8?PlaylistM3UCL
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='9' tvg-name='Rtp' tvg-logo='https://www.iptvgratis.cl/logocanal/rtp.png', Rtp * | BO
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='286' tvg-name='Radio FM HIT' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/08/250x250.png', Radio FM HIT * | CL
+https://videostreaming.cloudserverlatam.com:443/radiofmhit/radiofmhit/playlist.m3u8
+
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1418' tvg-name='Canal Visión Dorada' tvg-logo='https://www.iptvgratis.cl/logocanal/canavisiondorada.jpg', Canal Visión Dorada * | CO
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='657' tvg-name='Cosmovisión' tvg-logo='https://www.iptvgratis.cl/logocanal/cosmovision.jpg', Cosmovisión * | CO
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1268' tvg-name='CTV' tvg-logo='https://www.iptvgratis.cl/logocanal/ctv.jpg', CTV * | CO
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='306' tvg-name='TDI' tvg-logo='https://www.iptvgratis.cl/logocanal/tdi.jpg', TDI * | CO
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='389' tvg-name='Telepacífico' tvg-logo='https://www.iptvgratis.cl/logocanal/Telepacifico.png', Telepacífico * | CO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='108' tvg-name='Conecta TV' tvg-logo='https://www.iptvgratis.cl/logocanal/conectatv.png', Conecta TV * | MX
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='337' tvg-name='15TV Sabinas' tvg-logo='https://www.iptvgratis.cl/logocanal/15tv.png', 15TV Sabinas * | MX
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='821' tvg-name='8 NTV' tvg-logo='https://www.iptvgratis.cl/logocanal/ntv.png', 8 NTV * | MX
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='686' tvg-name='ADN40' tvg-logo='https://www.iptvgratis.cl/logocanal/adn40.png', ADN40 * | MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='700' tvg-name='Canal 10 Cancun' tvg-logo='https://www.iptvgratis.cl/logocanal/canal100.png', Canal 10 Cancun * | MX
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='868' tvg-name='Canal 15 Fresnillo' tvg-logo='https://www.iptvgratis.cl/logocanal/canalfrenillo.png', Canal 15 Fresnillo * | MX
+https://60ed5b6d0df78.streamlock.net:1936/lsac/ngrp:lsac_all/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='22' tvg-name='Canal 28 Nuevo Leon' tvg-logo='https://www.iptvgratis.cl/logocanal/canal28mx.png', Canal 28 Nuevo Leon * | MX
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='346' tvg-name='Canal 4 Saltillo' tvg-logo='https://www.iptvgratis.cl/logocanal/nrtmx.png', Canal 4 Saltillo * | MX
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='739' tvg-name='Central FM' tvg-logo='https://www.iptvgratis.cl/logocanal/centrralfmmx.png', Central FM * | MX
+https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1208' tvg-name='Jalisco TV' tvg-logo='https://www.iptvgratis.cl/logocanal/jaliscotv.png', Jalisco TV * | MX
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='270' tvg-name='Presumiendo Mexico' tvg-logo='https://www.iptvgratis.cl/logocanal/presumiendotv.png', Presumiendo Mexico * | MX
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1271' tvg-name='RTQ Queretaro' tvg-logo='https://www.iptvgratis.cl/logocanal/rqtvmx.png', RTQ Queretaro * | MX
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='436' tvg-name='Telemax Hermosillo' tvg-logo='https://www.iptvgratis.cl/logocanal/telemaxtv.png', Telemax Hermosillo * | MX
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='138' tvg-name='Transmedia TV Morelia' tvg-logo='https://www.iptvgratis.cl/logocanal/tmtv.png', Transmedia TV Morelia * | MX
+https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='40' tvg-name='TRC TV Campeche' tvg-logo='https://www.iptvgratis.cl/logocanal/trc.png', TRC TV Campeche * | MX
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='212' tvg-name='TVP Mazatlan' tvg-logo='https://www.iptvgratis.cl/logocanal/tvpmx.png', TVP Mazatlan * | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1498' tvg-name='AMX Noticias' tvg-logo='https://www.iptvgratis.cl/logocanal/amx.png', AMX Noticias * | MX
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='523' tvg-name='Canal 66 El Canal de las Noticias' tvg-logo='https://www.iptvgratis.cl/logocanal/canal66mx.png', Canal 66 El Canal de las Noticias * | MX
+https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='95' tvg-name='Urban TV' tvg-logo='https://www.iptvgratis.cl/logocanal/urbantv.png', Urban TV * | Otro
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1028' tvg-name='Canal 33 Madrid' tvg-logo='https://iptvgratis.cl/logocanal/canal33madrid.png', Canal 33 Madrid * | Otro
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='121' tvg-name='El Futuro en tu Mano' tvg-logo='https://www.iptvgratis.cl/logocanal/elfuturoentumano.jpg', El Futuro en tu Mano * | Otro
+https://limited24.todostreaming.es/live/renjillo-livestream.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='762' tvg-name='Extremadura' tvg-logo='https://www.iptvgratis.cl/logocanal/extremadura.png', Extremadura * | Otro
+https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='919' tvg-name='Onda Algeciras' tvg-logo='https://www.iptvgratis.cl/logocanal/ondaalgeciratv.png', Onda Algeciras * | Otro
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='492' tvg-name='DMJ' tvg-logo='https://www.iptvgratis.cl/logocanal/dmj.png', DMJ * | PE
+https://v4.tustreaming.cl:/s1tv/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1383' tvg-name='Best Cable Sports' tvg-logo='https://www.iptvgratis.cl/logocanal/bestcablesports.png', Best Cable Sports * | PE
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='568' tvg-name='Contacto Deportivo' tvg-logo='https://www.iptvgratis.cl/logocanal/contactodeportivo.png', Contacto Deportivo * | PE
+https://live.obslivestream.com/cdeportivo/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='879' tvg-name='Best Cable Music' tvg-logo='https://www.iptvgratis.cl/logocanal/bestcablemusic.jpg', Best Cable Music * | PE
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='761' tvg-name='Hatun TV' tvg-logo='https://www.iptvgratis.cl/logocanal/hatuntv.jpg', Hatun TV * | PE
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='788' tvg-name='Karibeña TV' tvg-logo='https://www.iptvgratis.cl/logocanal/karibe%C3%B1atv.jpg', Karibeña TV * | PE
+https://cu.onliv3.com/livevd/user1.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='602' tvg-name='Mas Cumbia' tvg-logo='https://www.iptvgratis.cl/logocanal/mascumbiatv.png', Mas Cumbia * | PE
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='224' tvg-name='TV Peru Noticias' tvg-logo='https://www.iptvgratis.cl/logocanal/tvpenoticias.png', TV Peru Noticias * | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1204' tvg-name='Antares TV' tvg-logo='https://www.iptvgratis.cl/logocanal/ant.png', Antares TV * | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1229' tvg-name='Autentica TV' tvg-logo='https://www.iptvgratis.cl/logocanal/autenticatv.png', Autentica TV * | PE
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='409' tvg-name='Best Cable TV' tvg-logo='https://www.iptvgratis.cl/logocanal/bestcabletv.png', Best Cable TV * | PE
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1225' tvg-name='Canal 8 Catacaos' tvg-logo='https://www.iptvgratis.cl/logocanal/canal8.png', Canal 8 Catacaos * | PE
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='232' tvg-name='Controversia TV' tvg-logo='https://www.iptvgratis.cl/logocanal/contraversia.png', Controversia TV * | PE
+https://live.obslivestream.com/controversiatv/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='872' tvg-name='Doble C TV' tvg-logo='https://www.iptvgratis.cl/logocanal/dobletv.png', Doble C TV * | PE
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='13' tvg-name='Exitosa' tvg-logo='https://www.iptvgratis.cl/logocanal/exitosatv.jpg', Exitosa * | PE
+https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='903' tvg-name='Genios TV' tvg-logo='https://www.iptvgratis.cl/logocanal/genios.png', Genios TV * | PE
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='61' tvg-name='Master Television' tvg-logo='https://www.iptvgratis.cl/logocanal/mastertv.png', Master Television * | PE
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='242' tvg-name='OK TeVe' tvg-logo='https://www.iptvgratis.cl/logocanal/oktv.png', OK TeVe * | PE
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='29' tvg-name='Telecolor TV' tvg-logo='https://www.iptvgratis.cl/logocanal/telecolortv.png', Telecolor TV * | PE
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1415' tvg-name='VZ TV' tvg-logo='https://www.iptvgratis.cl/logocanal/vztv.png', VZ TV * | PE
+https://live.obslivestream.com/vztv/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='490' tvg-name='BVC Canal 4' tvg-logo='https://www.iptvgratis.cl/logocanal/bvc.png', BVC Canal 4 * | AR
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='257' tvg-name='Panavision' tvg-logo='https://www.iptvgratis.cl/logocanal/panavision.png', Panavision * | VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1030' tvg-name='Oxigeno Network' tvg-logo='https://www.iptvgratis.cl/logocanal/oxigenonetwork.png', Oxigeno Network * | VE
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='709' tvg-name='Promar TV' tvg-logo='https://www.iptvgratis.cl/logocanal/promartv.png', Promar TV * | VE
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1439' tvg-name='Televen' tvg-logo='https://www.iptvgratis.cl/logocanal/televen.jpg', Televen * | VE
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='934' tvg-name='TLT' tvg-logo='https://www.iptvgratis.cl/logocanal/tlt.png', TLT * | VE
+https://vcp4.myplaytv.com/xtlt/xtlt.stream/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='498' tvg-name='Telesur' tvg-logo='https://www.iptvgratis.cl/logocanal/telesur.png', Telesur * | VE
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1396' tvg-name='Telesur English' tvg-logo='https://www.iptvgratis.cl/logocanal/telesur.png', Telesur English * | VE
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='395' tvg-name='TVS Maracay' tvg-logo='https://www.iptvgratis.cl/logocanal/tvs.png', TVS Maracay * | VE
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='473' tvg-name='Canal i' tvg-logo='https://www.iptvgratis.cl/logocanal/canali.png', Canal i * | VE
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='455' tvg-name='Italianissimo' tvg-logo='https://www.iptvgratis.cl/logocanal/italiasamo.png', Italianissimo * | VE
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='723' tvg-name='Anzoategui TV' tvg-logo='https://www.iptvgratis.cl/logocanal/atv.png', Anzoategui TV * | VE
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1406' tvg-name='Cantina TV' tvg-logo='https://www.iptvgratis.cl/logocanal/cantinatv.png', Cantina TV * | VE
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1226' tvg-name='EXC TV' tvg-logo='https://www.iptvgratis.cl/logocanal/exc.png', EXC TV * | VE
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1093' tvg-name='TVR' tvg-logo='https://www.iptvgratis.cl/logocanal/tvr.png', TVR * | VE
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='687' tvg-name='ABC TV' tvg-logo='https://www.iptvgratis.cl/logocanal/abctv.png', ABC TV * | PY
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='307' tvg-name='Estacion Cristal' tvg-logo='https://www.iptvgratis.cl/logocanal/estacioncristal.jpg', Estacion Cristal * | PY
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='14' tvg-name='Frutillar TV' tvg-logo='https://www.iptvgratis.cl/logocanal/frutillartv.png', Frutillar TV * | PY
+https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1257' tvg-name='RCC TV' tvg-logo='https://www.iptvgratis.cl/logocanal/rcc.png', RCC TV * | PY
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='931' tvg-name='Somos Del Este TV' tvg-logo='https://www.iptvgratis.cl/logocanal/somosdeleste.jpg', Somos Del Este TV * | PY
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1134' tvg-name='Suceso TV' tvg-logo='https://www.iptvgratis.cl/logocanal/sucesotv.png', Suceso TV * | PY
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='484' tvg-name='Canal 1' tvg-logo='https://www.iptvgratis.cl/logocanal/canal1.png', Canal 1 * | CR
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='541' tvg-name='Canal TV Plus' tvg-logo='https://www.iptvgratis.cl/logocanal/tvmas.png', Canal TV Plus * | PY
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1153' tvg-name='Cartago Medios' tvg-logo='https://www.iptvgratis.cl/logocanal/cartagomedios.png', Cartago Medios * | CR
+https://tvdatta.com:3384/live/cartagomedioslive.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='845' tvg-name='Colosal TV' tvg-logo='https://www.iptvgratis.cl/logocanal/colosalhd.png', Colosal TV * | CR
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='794' tvg-name='Norte Informativo' tvg-logo='https://www.iptvgratis.cl/logocanal/norteinformativo.png', Norte Informativo * | CR
+https://videohd.live:19360/8076/8076.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='751' tvg-name='Teleuno' tvg-logo='https://www.iptvgratis.cl/logocanal/teleuno.png', Teleuno * | CR
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='190' tvg-name='TicaVision' tvg-logo='https://www.iptvgratis.cl/logocanal/ticavision.png', TicaVision * | CR
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='100' tvg-name='Tv Sur Canal 14' tvg-logo='https://www.iptvgratis.cl/logocanal/tvsurtv.png', Tv Sur Canal 14 * | CR
+https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='323' tvg-name='MZ Sports' tvg-logo='https://www.iptvgratis.cl/logocanal/mzsport.png', MZ Sports * | CR
+https://cloudvideo.servers10.com:8081/8248/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='372' tvg-name='Canal 38' tvg-logo='https://www.iptvgratis.cl/logocanal/canal38.png', Canal 38 * | CR
+https://rtmp.info/canal38/envivo/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='413' tvg-name='Canal VM Latino' tvg-logo='https://www.iptvgratis.cl/logocanal/canalvmlatino.png', Canal VM Latino * | CR
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1192' tvg-name='Oldies Hits TV' tvg-logo='https://www.iptvgratis.cl/logocanal/oldiehits.png', Oldies Hits TV * | CR
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='913' tvg-name='Soy Plancha TV' tvg-logo='https://www.iptvgratis.cl/logocanal/soyplanchatv.png', Soy Plancha TV * | CR
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='163' tvg-name='Urbano TV' tvg-logo='https://www.iptvgratis.cl/logocanal/urbanotv.png', Urbano TV * | CR
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1329' tvg-name='Vintage Music' tvg-logo='https://www.iptvgratis.cl/logocanal/vintagemusic.png', Vintage Music * | CR
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='557' tvg-name='Telered' tvg-logo='https://www.iptvgratis.cl/logocanal/telered.png', Telered * | CR
+https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='415' tvg-name='Humor 24/7' tvg-logo='https://www.iptvgratis.cl/logocanal/humor.png', Humor 24/7 * | CR
+https://srv.panelcast.net/humor247/humor247/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='880' tvg-name='EnerGeek' tvg-logo='https://www.iptvgratis.cl/logocanal/EnerGeek.png', EnerGeek * | CL
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1173' tvg-name='Raices Arabe' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/09/logo-150x150.jpeg', Raices Arabe * | CL
+https://videostreaming.cloudserverlatam.com:443/gsnzdymwdq/gsnzdymwdq/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1462' tvg-name='Raices Arabes' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/09/logo-150x150.jpeg', Raices Arabes * | CL
+https://videostreaming.cloudserverlatam.com:443/gsnzdymwdq/gsnzdymwdq/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1229' tvg-name='ELCHAVOPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/09/elchavo.jpg', ELCHAVOPLUS * | CL
+https://videostreaming.cloudserverlatam.com:443/elchavoplus/elchavoplus/playlist.m3u8
+
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='894' tvg-name='Via Alto Mayo TV' tvg-logo='https://www.iptvgratis.cl/logocanal/viaaltamayotv.png', Via Alto Mayo TV * | PE
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='561' tvg-name='Uranio TV' tvg-logo='https://www.iptvgratis.cl/logocanal/uraniotv.png', Uranio TV * | PE
+https://live.obslivestream.com/uraniotv/index.m3u8
+
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='106' tvg-name='CLOUDTVPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/10/cloudtvplus.png', CLOUDTVPLUS * | CL
+https://videostreaming.cloudserverlatam.com:443/cloudtvplus/cloudtvplus/playlist.m3u8
+
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='370' tvg-name='TOMYJERRYPLUS' tvg-logo='https://www.iptvgratis.cl/logocanal/tomyyerry.jpg', TOMYJERRYPLUS * | CL
+https://videostreaming.cloudserverlatam.com:443/tomyjerry/tomyjerry/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1437' tvg-name='LOS PICAPIEDRASPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/10/lospicapiedrasplus.png', LOS PICAPIEDRASPLUS * | CL
+https://videostreaming.cloudserverlatam.com:443/picapiedraplus/picapiedraplus/playlist.m3u8
+
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1367' tvg-name='OpinionsurTv' tvg-logo='https://www.iptvgratis.cl/logocanal/opinionsur.png', OpinionsurTv * | CL
+https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='351' tvg-name='PlanetaTV Kids' tvg-logo='https://www.iptvgratis.cl/logocanal/planetakids.png', PlanetaTV Kids * | CL
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='739' tvg-name='NTV' tvg-logo='https://www.iptvgratis.cl/logocanal/ntvs.png', NTV * | CL
+https://marine2.miplay.cl/ntv/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1255' tvg-name='TVN' tvg-logo='https://www.iptvgratis.cl/logocanal/tvn.png', TVN * | CL
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1316' tvg-name='CHV Contigo' tvg-logo='https://www.iptvgratis.cl/logocanal/chv.png', CHV Contigo * | CL
+https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1409' tvg-name='Canal13' tvg-logo='https://www.iptvgratis.cl/logocanal/canal13.png', Canal13 * | CL
+https://unlimited1-cl-isp.dps.live/13cl/13cl.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='644' tvg-name='13 Cultura' tvg-logo='https://www.iptvgratis.cl/logocanal/13cultura.png', 13 Cultura * | CL
+https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1154' tvg-name='13 Entretencion' tvg-logo='https://www.iptvgratis.cl/logocanal/13c.png', 13 Entretencion * | CL
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1463' tvg-name='13 Teleseries' tvg-logo='https://www.iptvgratis.cl/logocanal/13t.png', 13 Teleseries * | CL
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='272' tvg-name='TVN 24 Horas' tvg-logo='https://www.iptvgratis.cl/logocanal/tvn.png', TVN 24 Horas * | CL
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1262' tvg-name='Turismo Travel' tvg-logo='https://www.iptvgratis.cl/logocanal/turismotravel.png', Turismo Travel * | CL
+https://srv.panelcast.net/traveltv/traveltv/playlist.m3u8
+
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='799' tvg-name='TVN' tvg-logo='https://www.iptvgratis.cl/logocanal/tvn.png', TVN * | CL
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='286' tvg-name='Repretel Canal 6' tvg-logo='https://iptvgratis.cl/logocanal/repretel.png', Repretel Canal 6 * | CR
+https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal6_720.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1404' tvg-name='Teletica Canal 7 Su enlace no se cae' tvg-logo='https://www.facebook.com/Teletica/photos/a.363996973623145/1899584696731024/', Teletica Canal 7 Su enlace no se cae * | CR
+https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='889' tvg-name='Multímedios Canal 8' tvg-logo='https://www.google.com/search?q=multimedios+costa+rica&client=tablet-android-samsung&source=android-browser&sxsrf=ALiCzsYydm4IYMerBFy8-ETunt2OBfWmsA:1665857175936&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjl_N7J6eL6AhWhTjABHe8lDh4Q_AUIBigB&biw=601&bih=832#', Multímedios Canal 8 * | CR
+http://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5a7b1e63a8da282c34d65445/publish/media_2000.m3u8?aid=579bd29dc99290cf08362c3b&ref=http%3A%2F%2Fwww.multimedios.com&pid=toDIVxtpWF4yNOD7QUnsxHVaWbZdFyah&sid=JGhr0r4r1p7owD80qh6iVRbwtC8CsejG&uid=LRl84gLsS5RXwEvqgcFf3dViNimeANKP&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1665943389966&ot=MC31tDsTIC8OHqFNTnh9aA&proto=http&pz=us
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='400' tvg-name='Canal 8 Remoto' tvg-logo='https://1.bp.blogspot.com/-hqlIns4Y750/WWwASgrkb3I/AAAAAAAAwwo/gP0jGDCOUuIvh6wsDVOkWYtw7RFnBcV2ACLcBGAs/s1600/201854338-1-multimedios-radio-y-television-publicidad-en-radio-y-television.jpeg', Canal 8 Remoto * | CR
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='957' tvg-name='Antena Seís' tvg-logo='https://www.google.com/search?q=antena+seis&client=tablet-android-samsung&espv=1&sxsrf=ALiCzsaoulAtfK3OG5krV5iiFR2vGGDl0Q:1665874075174&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiUr_bDqOP6AhXGSDABHUTJCIMQ_AUIBigB&biw=601&bih=841#', Antena Seís * | CR
+https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
+
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='209' tvg-name='Canal 4 El Salvador' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/3/38/Telemedellin.svg', Canal 4 El Salvador * | CO
+https://liveingesta118.cdnmedia.tv/telemedellintvlive/dvrlive-1500/chunklist.m3u8?DVR&fbclid=IwAR3q8KcwOMpRhYXdOb9lvFaNOZo-Rf66vEs9FpaIkW2MzYcFz5FLG_WOQj4
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='436' tvg-name='Repretel Canal 11' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png', Repretel Canal 11 * | CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='126' tvg-name='Teletica Radio' tvg-logo='https://m.facebook.com/TeleticaRadio/photos/a.1839539052974531/2617716555156773/?type=3&source=57&__tn__=EH-R', Teletica Radio * | CR
+https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/l_9874_642486088_107081.aac
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1008' tvg-name='Teletica Radio en video' tvg-logo='https://iptvgratis.cl/logocanal/teleticas.png', Teletica Radio en video * | CR
+https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+
+
+#EXTINF:-1 tvg-id='1006' tvg-name='Repretel Canal 4' tvg-logo='https://es.m.wikipedia.org/wiki/Archivo:Repretel_4_logo.png', Repretel Canal 4 * | CR
+https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
+
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='757' tvg-name='Radio Turríalba ( Enlace Expíra )' tvg-logo='https://www.doutico.com/radioturrialbatv.html', Radio Turríalba ( Enlace Expíra ) * | CR
+https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRBHeuDt1uxR9RZiaeMUOSMOHwrGGkPuSZda1-Ok5sTCn)/dm/3/x88mu9v/s/live-2.m3u8#
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1444' tvg-name='SuyaiTv' tvg-logo='https://suyaitv.cl/wp-content/uploads/2022/10/SuayiTv.jpg', SuyaiTv * | CL
+https://videostreaming.cloudserverlatam.com:2000/tunein/nfgumujmxv/v/m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1166' tvg-name='SuyaiTv' tvg-logo='https://suyaitv.cl/wp-content/uploads/2022/10/SuayiTv.jpg', SuyaiTv * | CL
+https://videostreaming.cloudserverlatam.com:443/nfgumujmxv/nfgumujmxv/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='938' tvg-name='test' tvg-logo='', test * | BR
+https://chile.cloudproserver.com/8062/8062/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='864' tvg-name='ELCHAVOPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/09/elchavo.jpg', ELCHAVOPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='866' tvg-name='CLOUDTVPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/10/cloudtvplus.png', CLOUDTVPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='739' tvg-name='LOS PICAPIEDRASPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/10/lospicapiedrasplus.png', LOS PICAPIEDRASPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1259' tvg-name='Radio FM HIT' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/08/250x250.png', Radio FM HIT * | CL
+https://6362ca6f1fc28.streamlock.net:443/radiofmhit/radiofmhit/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='883' tvg-name='TOMYJERRYPLUS' tvg-logo='https://www.iptvgratis.cl/logocanal/tomyyerry.jpg', TOMYJERRYPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1103' tvg-name='Mundo De La Música' tvg-logo='https://iptvgratis.cl/logocanal/Mundo.png', Mundo De La Música * | CL
+https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='866' tvg-name='Teletica Canal 7 Su enlace no se cae' tvg-logo='https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png', Teletica Canal 7 Su enlace no se cae * | CR
+https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='184' tvg-name='EnerGeek Fanpop' tvg-logo='https://www.coolstreaming.us/img/ch/ima32115728874.jpg', EnerGeek Fanpop * | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='627' tvg-name='EnerGeek Señal 3' tvg-logo='https://www.energeek.cl/uploads/backgrounds/energeekstream.png', EnerGeek Señal 3 * | CL
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='650' tvg-name='hj' tvg-logo='jj', hj * | AR
+jj
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='801' tvg-name='Latino Kids' tvg-logo='https://www.iptvgratis.cl/logocanal/latinokids.png', Latino Kids * | AR
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1091' tvg-name='Cine Canal' tvg-logo='https://www.cloudproserver.com/wp-content/uploads/2023/02/cinecanal.jpg', Cine Canal * | CL
+https://6362ca6f1fc28.streamlock.net:443/cinecanal/cinecanal/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1488' tvg-name='Cine Canal' tvg-logo='https://www.cloudproserver.com/wp-content/uploads/2023/02/cinecanal.jpg', Cine Canal * | CL
+https://6362ca6f1fc28.streamlock.net:443/cinecanal/cinecanal/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='456' tvg-name='Cine Cartoon' tvg-logo='https://www.cloudproserver.com/wp-content/uploads/2023/02/cinecanal.jpg', Cine Cartoon * | CL
+https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='779' tvg-name='Latino Kids' tvg-logo='https://www.iptvgratis.cl/logocanal/latinokids.png', Latino Kids * | CL
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='163' tvg-name='ELCHAVOPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/09/elchavo.jpg', ELCHAVOPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='711' tvg-name='CLOUDTVPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/10/cloudtvplus.png', CLOUDTVPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='230' tvg-name='TOMYJERRYPLUS' tvg-logo='https://www.iptvgratis.cl/logocanal/tomyyerry.jpg', TOMYJERRYPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1460' tvg-name='LOS PICAPIEDRASPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/10/lospicapiedrasplus.png', LOS PICAPIEDRASPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1356' tvg-name='Cine Cartoon' tvg-logo='https://www.cloudproserver.com/wp-content/uploads/2023/02/cinecanal.jpg', Cine Cartoon * | CL
+https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='678' tvg-name='EnerGeek Retro' tvg-logo='https://energeek.cl/uploads/logos/Retro-new.png', EnerGeek Retro * | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='594' tvg-name='EnerGeek Fanpop' tvg-logo='https://energeek.cl/uploads/logos/EGFanpop.png', EnerGeek Fanpop * | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1358' tvg-name='EnerGeek Animate' tvg-logo='https://energeek.cl/uploads/logos/EGAnimate.png', EnerGeek Animate * | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='461' tvg-name='EnerGeek Radio' tvg-logo='https://energeek.cl/uploads/logos/Radio.png', EnerGeek Radio * | CL
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='815' tvg-name='CNN Chile' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2024/03/cnnchile.png', CNN Chile * | CL
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1186' tvg-name='ClickTv' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2024/03/Logo-ClickTv-Chile.png', ClickTv * | CL
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='344' tvg-name='CNN Chile' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2024/03/cnnchile.png', CNN Chile * | CL
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='255' tvg-name='Pichilemu TV' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2024/03/pichilemutv.png', Pichilemu TV * | CL
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='292' tvg-name='LaChilena Tv' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2024/03/la-chilena-tv-logo-.png', LaChilena Tv * | CL
+https://vdochile.com:3134/hybrid/play.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='14' tvg-name='Planeta Kids Tv' tvg-logo='', Planeta Kids Tv * | CL
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='102' tvg-name='Planeta Kids Tv' tvg-logo='', Planeta Kids Tv * | CL
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1400' tvg-name='Planeta Movies' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2024/03/planeta-kids.png', Planeta Movies * | CL
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='654' tvg-name='Cloud Data Tv' tvg-logo='', Cloud Data Tv * | CL
+https://cloud5.streaminglivehd.com:3615/stream/play.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1441' tvg-name='DODOTV' tvg-logo='https://dodohosting.com/logos/logotv1.png', DODOTV * | CL
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1356' tvg-name='Mundo de la musica' tvg-logo='', Mundo de la musica * | CL
+https://panel.tvstream.cl/1936/8092
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1037' tvg-name='Mundo de la musica' tvg-logo='', Mundo de la musica * | CL
+https://panel.tvstream.cl/1936/8092/8092/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='465' tvg-name='Mundo de la musica' tvg-logo='', Mundo de la musica * | CL
+https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='265' tvg-name='Mundo de la musica' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2024/10/images-1.jpg', Mundo de la musica * | CL
+https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
