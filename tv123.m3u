@@ -17,6 +17,15 @@ https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:30,1+1 (1080p)
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:30, TVS Maracay | VE 
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-logo="https://i.imgur.com/GZInf2W.png" group-title="Animation;Kids",优漫卡通 (576p)
+http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas ✪ | CL
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="Spanish" group-title="Variedades",Argentinisima Satelital
