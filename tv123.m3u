@@ -17,9 +17,11 @@ https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0,televisión de la NASA
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:20, MAX Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Int. América" tvg-name="NASA TV Public",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 EXTINF:29, TVS Maracay | VE
@@ -351,6 +353,10 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 #EXTINF:30, animation
 #EXTINF:30, TVS Maracay | VE 
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
+#EXTINF:20, MAX Anime
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+#EXTINF:0, ANIMESTATION (Argentina)
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:0,Pluto TV Nick Latino (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
 #EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-logo="https://i.imgur.com/GZInf2W.png" group-title="Animation;Kids",优漫卡通 (576p)
