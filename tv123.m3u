@@ -418,7 +418,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEVEN SD" tvg-logo="" group-title="Latino",LA: TELEVEN SD
+http://2360256301311007795.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1007795.ts
 #EXTINF:0, Carolina TV
 #EXTINF:-1 tvg-id='1131' tvg-name='Carolina TV' tvg-logo='https://iptvgratis.cl/logocanal/Carolina_TV.png', Carolina TV * | CL
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
@@ -428,8 +429,20 @@ http://2360256301311008281.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1008281.ts
 http://236025630131321198.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/321198.ts
 #EXTINF:-1, TCM SD tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: TCM SD
 http://236025630131321427.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/321427.ts
+#EXTINF:-1 tvg-id="" tvg-name="Juego de tronos S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydrupjqBj6M68pUwJNJ5rbGmm1O.jpg" group-title="SER ES| CIENCIA FICCION",Juego de tronos S03 E02
+http://236025630131536385.ofded12.xyz:80/series/wa619290/FGuCUMQCPU/536385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juego de tronos S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2DZ4uvnM46KpAb2RPc5TM9tZJq.jpg" group-title="SER ES| CIENCIA FICCION",Juego de tronos S03 E03
+http://236025630131536386.ofded12.xyz:80/series/wa619290/FGuCUMQCPU/536386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juego de tronos S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70aEf9rvNPdqh4QGPSzEp6BB4Q.jpg" group-title="SER ES| CIENCIA FICCION",Juego de tronos S03 E04
+http://236025630131536387.ofded12.xyz:80/series/wa619290/FGuCUMQCPU/536387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juego de tronos S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41CekEZyGvNLTJIJy7BqFDTitcC.jpg" group-title="SER ES| CIENCIA FICCION",Juego de tronos S03 E05
 
 
+
+
+
+#EXTINF:0, El canal de la Universidad de Carabobo
+https://uctv.uc.edu.ve/wp-content/uploads/2021/10/uc_1.mp4
 
 
 
