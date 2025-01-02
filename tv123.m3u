@@ -71,7 +71,7 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 | CL
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, C-R-O
+#EXTINF:0, zeno.fm
 https://stream.zeno.fm/ynqn2rq1g4duv?dyn-uid=5554574251315272866&amp;an-uid=0&amp;dot-uid=0b6b2000005d09cd536ccea0&amp;triton-uid=cookie%3Acceba134-9053-4373-9f50-39c1f7da536c&amp;amb-uid=8854875669335957890&amp;adtonosListenerId=01JGKJH5MFFE043YMZDW8BWM6E&amp;aw_0_req_lsid=404359ff45b57f4fe3de653835a64a9c
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | CL
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
