@@ -1,6 +1,7 @@
 #EXTM3U 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FILM&ARTS SD" tvg-logo="" group-title="Argentina",ARG: FILM&ARTS SD
+http://2360256301311006975.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1006975.ts
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="LA: TELEVEN SD" tvg-logo="" group-title="Latino",LA: TELEVEN SD
@@ -14,6 +15,13 @@ rtmp://62.210.141.18:1935/directo/lancelot.television
 
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,14CONCIENCIATV
+38.183.213.254:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA EUROPA FHD" tvg-logo="" group-title="Argentina",ARG: EUROPA EUROPA FHD
+http://2360256301311006974.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1006974.ts
+
 
 #EXTINF:0,classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
@@ -144,7 +152,8 @@ https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
 https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
 #EXTINF:30,ukraine tv
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-
+#EXTINF:-1,Stingray Concerts HD
+38.183.213.254:8000/play/a0g3/index.m3u8
 #EXTINF:-1,SUR: I-Sat
 http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/97742
 #EXTINF:30,Globovision (1080p) [Not 24/7]
