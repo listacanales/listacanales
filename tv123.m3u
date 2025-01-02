@@ -1,13 +1,25 @@
 #EXTM3U 
 
+
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEVEN SD" tvg-logo="" group-title="Latino",LA: TELEVEN SD
+http://2360256301311007795.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1007795.ts
+#EXTINF:0,classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="1573" tvg-name="Net Channel" tvg-logo="https://cdn.m3u.cl/logo/1573_Net_Channel.png", Net Channel | VE
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION SD" tvg-logo="" group-title="Latino",LA: UNIVISION SD
+http://2360256301311007800.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1007800.ts
+
+#EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:0,classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:20, MAX Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
-https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Int. América" tvg-name="NASA TV Public",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 EXTINF:29, TVS Maracay | VE
@@ -417,7 +429,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 
 
-
+#EXTINF:30,1+1 (1080p)
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION SD" tvg-logo="" group-title="Latino",LA: UNIVISION SD
+http://2360256301311007800.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1007800.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: TELEVEN SD" tvg-logo="" group-title="Latino",LA: TELEVEN SD
 http://2360256301311007795.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1007795.ts
 #EXTINF:0, Carolina TV
