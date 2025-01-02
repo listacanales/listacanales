@@ -412,12 +412,13 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Animation",Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:0, Carolina TV
 #EXTINF:-1 tvg-id='1131' tvg-name='Carolina TV' tvg-logo='https://iptvgratis.cl/logocanal/Carolina_TV.png', Carolina TV * | CL
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL 02 SD" tvg-logo="" group-title="Colombia",CO: CARACOL 02 SD
+#EXTINF:-1 , CARACOL 02 SD
 http://2360256301311008281.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1008281.ts
-
+#EXTINF:-1 , cuatro.es  tvg-logo="http://fanc.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CUATRO SD
+http://236025630131321198.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/321198.ts
 
 
 
