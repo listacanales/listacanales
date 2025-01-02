@@ -419,7 +419,8 @@ https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 http://2360256301311008281.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1008281.ts
 #EXTINF:-1 , cuatro.es  tvg-logo="http://fanc.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CUATRO SD
 http://236025630131321198.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/321198.ts
-
+#EXTINF:-1, TCM SD tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: TCM SD
+http://236025630131321427.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/321427.ts
 
 
 
