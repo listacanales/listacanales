@@ -212,8 +212,7 @@ https://bamus-klowdtv.amagi.tv/playlist.m3u8
 http://236025630131321427.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/321427.ts
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FILM&ARTS SD" tvg-logo="" group-title="Argentina",ARG: FILM&ARTS SD
-http://2360256301311006975.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1006975.ts
+
 #EXTINF:0,  Castilla La-Mancha version 1
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0,  Castilla La-Mancha version 2
