@@ -1,10 +1,7 @@
 #EXTM3U 
 #EXTINF:0,classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="EVTVMiami.us" tvg-logo="https://i.ibb.co/G5hThMZ/cropped-evtv-Web-Guidelines-1-300x183-1.png" group-title="General",EVTV Miami (720p) [Not 24/7]
-https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FILM&ARTS SD" tvg-logo="" group-title="Argentina",ARG: FILM&ARTS SD
-http://2360256301311006975.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1006975.ts
+
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="LA: TELEVEN SD" tvg-logo="" group-title="Latino",LA: TELEVEN SD
@@ -22,8 +19,7 @@ https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ConCienciaTV.ve" tvg-logo="https://i.imgur.com/kzOOz8R.png" group-title="Science",ConCiencia TV (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/06843a89c55eb976f980641de0844259c76eca33/master.m3u8
-#EXTINF:-1 tvg-id="EVTVMiami.us" tvg-logo="https://i.ibb.co/G5hThMZ/cropped-evtv-Web-Guidelines-1-300x183-1.png" group-title="General",EVTV Miami (720p) [Not 24/7]
-https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA EUROPA FHD" tvg-logo="" group-title="Argentina",ARG: EUROPA EUROPA FHD
 http://2360256301311006974.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1006974.ts
 
@@ -214,7 +210,10 @@ https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1, TCM SD tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: TCM SD
 http://236025630131321427.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/321427.ts
-
+#EXTINF:-1 tvg-id="EVTVMiami.us" tvg-logo="https://i.ibb.co/G5hThMZ/cropped-evtv-Web-Guidelines-1-300x183-1.png" group-title="General",EVTV Miami (720p) [Not 24/7]
+https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FILM&ARTS SD" tvg-logo="" group-title="Argentina",ARG: FILM&ARTS SD
+http://2360256301311006975.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1006975.ts
 #EXTINF:0,  Castilla La-Mancha version 1
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0,  Castilla La-Mancha version 2
@@ -223,6 +222,7 @@ https://ztnr.rtve.es/ztnr/5655969.m3u8
 https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="725" tvg-name="Hilando Fino" tvg-logo="https://cdn.m3u.cl/logo/725_Hilando_Fino.png", Hilando Fino | DO
 https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="726" tvg-name="Luna TV" tvg-logo="https://cdn.m3u.cl/logo/726_Luna_TV.png", Luna TV | DO
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="727" tvg-name="Megavision" tvg-logo="https://cdn.m3u.cl/logo/727_Megavision.png", Megavision | DO
