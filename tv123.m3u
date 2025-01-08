@@ -114,8 +114,7 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1228" tvg-name="Telesol" tvg-logo="https://cdn.m3u.cl/logo/1228_Telesol.png", Telesol | VE
 https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1227" tvg-name="TV FANB" tvg-logo="https://cdn.m3u.cl/logo/1227_TV_FANB.png", TV FANB | VE
-https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1226" tvg-name="Vale TV" tvg-logo="https://cdn.m3u.cl/logo/1226_Vale_TV.png", Vale TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://cdn.m3u.cl/logo/1325_MDA_TV.png", MDA TV | VE
@@ -184,6 +183,8 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:100,EWTN el Canal Católico (720p) [Not 24/7]
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="1227" tvg-name="TV FANB" tvg-logo="https://cdn.m3u.cl/logo/1227_TV_FANB.png", TV FANB | VE
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8?PlaylistM3UCL
 #EXTINF:96,Sony Movie Channel (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="1421" tvg-name="13 Kids" tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png", 13 Kids | CL
@@ -583,3 +584,14 @@ http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTM3U x-tvg-url='' tv-test='Iptv gratis'
 #EXTINF:-1 tvg-id='265' tvg-name='Mundo de la musica' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2024/10/images-1.jpg', Mundo de la musica * | CL
 https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
+#EXTINF: 1, el venezolano
+https://ott.streann.com/51b731f2-75ee-4eb5-9d61-a3c767389644
+#EXTINF: 1, el venezolano (720p) [Not 24/7]
+https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
+
+
+
+
+
+
+
