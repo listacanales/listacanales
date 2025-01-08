@@ -1,5 +1,8 @@
 #EXTM3U 
-
+#EXTINF:0,classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="EVTVMiami.us" tvg-logo="https://i.ibb.co/G5hThMZ/cropped-evtv-Web-Guidelines-1-300x183-1.png" group-title="General",EVTV Miami (720p) [Not 24/7]
+https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: FILM&ARTS SD" tvg-logo="" group-title="Argentina",ARG: FILM&ARTS SD
 http://2360256301311006975.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1006975.ts
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
@@ -16,8 +19,9 @@ rtmp://62.210.141.18:1935/directo/lancelot.television
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,14CONCIENCIATV
-38.183.213.254:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="ConCienciaTV.ve" tvg-logo="https://i.imgur.com/kzOOz8R.png" group-title="Science",ConCiencia TV (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/06843a89c55eb976f980641de0844259c76eca33/master.m3u8
 #EXTINF:-1 tvg-id="EVTVMiami.us" tvg-logo="https://i.ibb.co/G5hThMZ/cropped-evtv-Web-Guidelines-1-300x183-1.png" group-title="General",EVTV Miami (720p) [Not 24/7]
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA EUROPA FHD" tvg-logo="" group-title="Argentina",ARG: EUROPA EUROPA FHD
