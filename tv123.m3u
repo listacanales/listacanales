@@ -210,7 +210,7 @@ https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1, TCM SD tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: TCM SD
 http://236025630131321427.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/321427.ts
-#EXTINF:-1 tvg-id="EVTVMiami.us" tvg-logo="https://i.ibb.co/G5hThMZ/cropped-evtv-Web-Guidelines-1-300x183-1.png" group-title="General",EVTV Miami (720p) [Not 24/7]
+#EXTINF:-1, EVTVMiami.us 720p Not 24 7
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: FILM&ARTS SD" tvg-logo="" group-title="Argentina",ARG: FILM&ARTS SD
 http://2360256301311006975.ofded12.xyz:80/live/wa619290/FGuCUMQCPU/1006975.ts
