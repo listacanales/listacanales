@@ -1,7 +1,8 @@
 #EXTM3U 
 #EXTINF:0,classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-
+#EXTINF:0, Antofagasta TV
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="LA: TELEVEN SD" tvg-logo="" group-title="Latino",LA: TELEVEN SD
@@ -15,6 +16,12 @@ rtmp://62.210.141.18:1935/directo/lancelot.television
 
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ConCienciaTV.ve" tvg-logo="https://i.imgur.com/kzOOz8R.png" group-title="Science",ConCiencia TV (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://odysee.com/
