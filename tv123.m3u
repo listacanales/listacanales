@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:25,Djazz
+#EXTINF:0,Djazz
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1
 #EXTINF:29, Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:14,1Muz Bielorrusia
+#EXTINF:0,1Muz Bielorrusia
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:18, Antofagasta TV
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
@@ -91,6 +91,8 @@ http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:80,Antena 7
 https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8
+#EXTINF:8, Microvision | DO
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
 #EXTINF:25,Service
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed48-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b0c9a3d-9786-4dee-8eea-1dfcbea2ee1b
 #EXTINF:62, Naturaleza
@@ -157,6 +159,8 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8?PlaylistM3UCL
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:25,Classic Movies Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
+#EXTINF:0, Canal Once Del Zulia | VE
+https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:60,Miami TV
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
 #EXTINF:23,Chile Channel (720p)
@@ -289,10 +293,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:7199,  Castilla La-Mancha version 1
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
-#EXTINF:8, Microvision | DO
-https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal Once Del Zulia | VE
-https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:108,VOA TV Africa (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:30,1+1 (1080p)
@@ -654,8 +654,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
 #EXTINF:0,esRadio
 https://libertaddigital-libremercado-live.flumotion.com/libertaddigital/libremercado-high.aac
-#EXTINF:0,clickradio
-https://clickradio.stream.laut.fm/clickradio?t302=2025-01-02_13-58-52&uuid=e7ea3bfc-cd7e-47c2-af29-54420cb88d3a
 #EXTINF:0, Cadena 100 InterComarcas 95.9 FM 
 https://stream.zeno.fm/zrqzua72w7zuv?dyn-uid=5554574251315272866&amp;an-uid=0&amp;dot-uid=0b6b2000005d09cd536ccea0&amp;triton-uid=cookie%3Acceba134-9053-4373-9f50-39c1f7da536c&amp;amb-uid=8854875669335957890&amp;adtonosListenerId=01JGKJH5MFFE043YMZDW8BWM6E&amp;aw_0_req_lsid=404359ff45b57f4fe3de653835a64a9c
 #EXTINF:0, De Musica Clasica -  50, 60, 90, al 2011  
@@ -1117,8 +1115,6 @@ https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
 https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8
 #EXTINF:0,Parlamento de Andalucía
 https://stream2.parlamentodeandalucia.es/realizacion2/realizacion2/playlist.m3u8
-#EXTINF:0,zenofm
-https://stream.zeno.fm/ynqn2rq1g4duv?dyn-uid=5554574251315272866&amp;an-uid=0&amp;dot-uid=0b6b2000005d09cd536ccea0&amp;triton-uid=cookie%3Acceba134-9053-4373-9f50-39c1f7da536c&amp;amb-uid=8854875669335957890&amp;adtonosListenerId=01JGKJH5MFFE043YMZDW8BWM6E&amp;aw_0_req_lsid=404359ff45b57f4fe3de653835a64a9c
 #EXTINF:0,Parlamento de Andalucía
 https://stream2.parlamentodeandalucia.es/realizacion3/realizacion3/playlist.m3u8
 #EXTINF:0,Parlamento de Andalucía
