@@ -32,6 +32,8 @@ http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 #EXTINF:-1 group-title="Bics US", US: UNIVISION
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
+#EXTINF:-1, Aprieta y Gana | VE
+https://www.youtube.com/watch?v=4uT6HCo-dGY&t=1s
 #EXTINF:48, Net Channel Señal 2 | VE
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 #EXTINF:25,Service
