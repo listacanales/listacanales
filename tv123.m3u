@@ -27,6 +27,11 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 https://d39cdj6x0ssnqk.cloudfront.net/out/v1/ae3f5ad3ac9d4bcfbedc1894a62782b4/index.m3u8
 #EXTINF:120,Surfing+ (1080p)
 https://dr4jwhk0sty71.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-SurfingPlus/444.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
+http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
+#EXTINF:-1 group-title="Bics US", US: UNIVISION
+http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+
 #EXTINF:48, Net Channel Señal 2 | VE
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 #EXTINF:25,Service
