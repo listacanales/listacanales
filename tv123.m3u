@@ -51,6 +51,9 @@ https://media.streambrothers.com:19360/8158/8158.m3u8?Playlist
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b9a9385-79d0-48ba-8524-7334c82add93
 #EXTINF:0,Vía Televisión (720P) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+#EXTINF:-1 tvg-id="140" tvg-name="Zoom TV" tvg-logo="https://cdn.m3u.cl/logo/140_Zoom_TV.png", Zoom TV | CO
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8?PlaylistM3UCL
+
 #EXTINF:48, Net Channel | VE
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 #EXTINF:0,Pluto TV Empeños a lo bestia (720p) [Not 24/7]
@@ -76,7 +79,8 @@ http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="Bics US", US: UNIVISION
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
-
+#EXTINF:-1 tvg-id="135" tvg-name="Telepacífico" tvg-logo="https://cdn.m3u.cl/logo/135_Telepacifico.png", Telepacífico | CO
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
 #EXTINF:48, Net Channel Señal 2 | VE
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 #EXTINF:25,Service
@@ -167,6 +171,11 @@ https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 #EXTINF:70,flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png", El Trece | AR
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png", 13 Internacional | CL
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Telearagua | VE
 http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL
 #EXTINF:0,1Muz Bielorrusia
