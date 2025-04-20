@@ -9,14 +9,24 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:60, Beyblade
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8?ads_amagi_channel=953&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6421&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=8ef566df-5b0a-4b5d-900e-9f74d96f0f3f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="AsiriTV.pe",AsiriTV (720p) [Not 24/7]
+https://video2.lhdserver.es/asiritv/live.m3u8
 
+#EXTINF:-1 tvg-id="1681" tvg-name="Net Channel Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1681_Net_Channel_Senal_2.png", Net Channel Señal 2 | VE
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 
 #EXTINF:0, 	Cuatro.es Mediaset 	Spain
 http://185.189.225.150:85/CuatroHD/index.m3u8
-#EXTINF:0, Televisora Andina de Merida | VE
-https://tv.webtuya.com:3459/live/tammeridalive.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal Once Del Zulia | VE
+
+#EXTINF:-1 tvg-id="1228" tvg-name="Telesol" tvg-logo="https://cdn.m3u.cl/logo/1228_Telesol.png", Telesol | VE
+https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia | VE
 https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 #EXTINF:30, Canal i | VE
@@ -25,7 +35,8 @@ https://vcp10.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="AsiriTV.pe",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
-
+#EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://cdn.m3u.cl/logo/113_Cali_TV.png", Cali TV | CO
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:25, MDA TV | VE
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,Pluto TV MLB (720p)
