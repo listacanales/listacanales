@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:25,Djazz
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1
@@ -31,6 +32,10 @@ https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8?PlaylistM3U
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 #EXTINF:30, Canal i | VE
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0,Dodoma TV (360p) [Not 24/7]
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+
 #EXTINF:24,MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="AsiriTV.pe",AsiriTV (720p) [Not 24/7]
