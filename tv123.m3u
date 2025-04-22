@@ -1,4 +1,9 @@
+
+
+
 #EXTM3U
+#EXTINF:0,Dodoma TV (360p) [Not 24/7]
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
 #EXTINF:25,Djazz
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1
 #EXTINF:29, Promar TV | VE
@@ -25,15 +30,19 @@ https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia | VE
 https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8?PlaylistM3UCL
 
-
-
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 (argentina)
+http://fastream.xyz:8080/novacon79/5544545/507
+#EXTINF:30, Canal i | VE
+https://vcp10.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 #EXTINF:30, Canal i | VE
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0,Dodoma TV (360p) [Not 24/7]
-https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 4 (México)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
+
 
 #EXTINF:24,MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
