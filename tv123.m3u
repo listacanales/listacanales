@@ -1,11 +1,20 @@
-
-
-
 #EXTM3U
 #EXTINF:0,Dodoma TV (360p) [Not 24/7]
 https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
 #EXTINF:25,Djazz
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1
+
+
+
+
+#EXTINF:0, 	Cuatro.es Mediaset 	Spain
+http://185.189.225.150:85/CuatroHD/index.m3u8
+
+#EXTINF:0, AnzoateguiTV.ve
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="1228" tvg-name="Telesol" tvg-logo="https://cdn.m3u.cl/logo/1228_Telesol.png", Telesol | VE
+https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:29, Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,1Muz Bielorrusia
@@ -16,6 +25,13 @@ https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8?ads_amagi_channel=953&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6421&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=8ef566df-5b0a-4b5d-900e-9f74d96f0f3f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-id="AsiriTV.pe",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="1681" tvg-name="Net Channel Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1681_Net_Channel_Senal_2.png", Net Channel Señal 2 | VE
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0, AnzoateguiTV.ve
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1681" tvg-name="Net Channel Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1681_Net_Channel_Senal_2.png", Net Channel Señal 2 | VE
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
@@ -84,6 +100,17 @@ https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:30, Canal i | VE
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 
+Antena 3 HD
+http://185.189.225.150:85/Antena3HD/index.m3u8
+
+
+
+Antena 3
+http://181.78.109.48:8000/play/a00f/index.m3u8
+
+
+
+
 #EXTINF:40,Cubavisión TV
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -103,6 +130,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a7
 #EXTINF:-1 tvg-id="143" tvg-name="NET Channel - Señal para Venezuela" tvg-logo="https://netchannellatam.neocities.org/logo_net_hd.png", NET Channel Venezuela HD
 https://media.streambrothers.com:19360/8134/8134.m3u8?Playlist
 
+#EXTINF:40,Cubavisión TV
+#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 
 #EXTINF:0,Vía Televisión (720P) [Not 24/7]
