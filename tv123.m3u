@@ -37,8 +37,7 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1681" tvg-name="Net Channel Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1681_Net_Channel_Senal_2.png", Net Channel Señal 2 | VE
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
-
-#EXTINF:0, Net Channel
+#EXTINF:-1 tvg-id="1681" tvg-name="Net Channel Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1681_Net_Channel_Senal_2.png", Net Channel Señal 2 
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 
 #EXTINF:0, 	Cuatro.es Mediaset 	Spain
