@@ -3,7 +3,6 @@
 
 
 
-
 #EXTM3U
 #EXTINF:18,Dodoma TV (360p) [Not 24/7]
 https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
@@ -26,19 +25,11 @@ https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01
 #EXTINF:0,   VPITV 2
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
-
-
 #EXTINF:-1,CANAL ODISEA
 http://185.228.155.93:8000/play/a030/index.m3u8
 
-#EXTINF:0,Somos TV (720p) [Not 24/7]
-https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
-
-#EXTINF:-1,TCM 
-http://190.61.44.134:1088/play/a00e 
-
-#EXTINF:0,   VPITV 2
-https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:56,Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1,TCM HD
 http://185.228.155.93:8000/play/a02m/index.m3u8
@@ -49,8 +40,10 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 #EXTINF:-1,TELECINCO HD
 http://185.228.155.93:8000/play/a024/index.m3u8
 
-#EXTINF:0,   VPITV 2
-https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+
+
+#EXTINF:-1,TCM 
+http://190.61.44.134:1088/play/a00e 
 
 #EXTINF:56,Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
