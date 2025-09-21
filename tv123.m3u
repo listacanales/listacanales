@@ -1,3 +1,108 @@
+#EXTM3U 
+#EXTINF:29, Promar TV | VE
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:25,Pluto TV MTV Catfish (Spain) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1ab3c7778230000735cf41&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=305&terminate=false&userId=
+#EXTINF:-1 tvg-id="45138" tvg-name="Antofagasta TV" tvg-logo="https://lh3.googleusercontent.com/-9ykpPa7MOE0/Wn9ikLOHznI/AAAAAAAAgv0/piIOoaBDZPERcRlBvxF__pCtiJWX-Yi6QCK8BGAs/s200/2018-02-10.png", Antofagasta TV
+#EXTINF:18, Antofagasta TV M3UCL
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia | VE
+https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png", Promar TV | VE
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="147" tvg-name="Reforma TV" tvg-logo="https://cdn.m3u.cl/logo/147_Reforma_TV.png", Reforma TV | VE
+https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="148" tvg-name="Telearagua" tvg-logo="https://cdn.m3u.cl/logo/148_Telearagua.png", Telearagua | VE
+http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://cdn.m3u.cl/logo/149_Televen.png", Televen | VE
+https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/fstl=exp=1722281392~data=ip=181.43.37.152%2Cid=TLV-GUEST%2Cpid=255%2Cdid=N%2FA%2Csid=WBS~acl=%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~hmac=fb5c2d11a06fd63fd0c00a49ea2ac757b8351e8828822d8ca8cc8a2d0c200dfd/index_2.m3u8?AVC_DATE=2024-07-28&AVC_INVIEW=1&AVC_INVIEWPERC=100&AV_CATEGORY=IAB1-7&AV_CCPA=1YYY&AV_CHANNEL_NAME=Televen+HD&AV_CONTENT_TYPE=LIVE&AV_DNT=0&AV_DTRACK=1&AV_LANGUAGE=Sp&AV_SECURED=1&AV_SITE_CATEGORY=IAB1-7&AV_TITLE=Tele&PlaylistM3UCL
+#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://cdn.m3u.cl/logo/499_Telesur.png", Telesur | VE
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="500" tvg-name="Telesur English" tvg-logo="https://cdn.m3u.cl/logo/500_Telesur_English.png", Telesur English | VE
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="18" tvg-name="ShowVen TV" tvg-logo="https://cdn.m3u.cl/logo/18_ShowVen_TV.png", ShowVen TV | VE
+https://vcp1.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="518" tvg-name="TVS Maracay" tvg-logo="https://cdn.m3u.cl/logo/518_TVS_Maracay.png", TVS Maracay | VE
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="519" tvg-name="Canal i" tvg-logo="https://cdn.m3u.cl/logo/519_Canal_i.png", Canal i | VE
+https://vcp10.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png", Venevision | VE
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV | CL
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 | CL
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | CL
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://cdn.m3u.cl/logo/14_Urban_TV.png", Urban TV | ES
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV | CL
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="855" tvg-name="Natanael TV" tvg-logo="https://cdn.m3u.cl/logo/855_Natanael_TV.png", Natanael TV | PA
+https://stmv1.voxhdnet.com/natanael040322/natanael040322/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV | VE
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://cdn.m3u.cl/logo/926_Oxigeno_Network.png", Oxigeno Network | VE
+https://vcp.myplaytv.com/oxigeno/oxigeno/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="924" tvg-name="Realtor TV" tvg-logo="https://cdn.m3u.cl/logo/924_Realtor_TV.png", Realtor TV | VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://cdn.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://cdn.m3u.cl/logo/928_MovieFE.png", MovieFE | VE
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="927" tvg-name="Anzoategui TV" tvg-logo="https://cdn.m3u.cl/logo/927_Anzoategui_TV.png", Anzoategui TV | VE
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV | CL
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1203" tvg-name="Chivacoa TV" tvg-logo="https://cdn.m3u.cl/logo/1203_Chivacoa_TV.png", Chivacoa TV | VE
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1217" tvg-name="eSports Max TV" tvg-logo="https://cdn.m3u.cl/logo/1217_eSports_Max_TV.png", eSports Max TV | VE
+https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1221" tvg-name="Cantina TV" tvg-logo="https://cdn.m3u.cl/logo/1221_Cantina_TV.png", Cantina TV | VE
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1224" tvg-name="TRV" tvg-logo="https://cdn.m3u.cl/logo/1224_TRV.png", TRV | VE
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1228" tvg-name="Telesol" tvg-logo="https://cdn.m3u.cl/logo/1228_Telesol.png", Telesol | VE
+https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1227" tvg-name="TV FANB" tvg-logo="https://cdn.m3u.cl/logo/1227_TV_FANB.png", TV FANB | VE
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1226" tvg-name="Vale TV" tvg-logo="https://cdn.m3u.cl/logo/1226_Vale_TV.png", Vale TV | VE
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://cdn.m3u.cl/logo/1325_MDA_TV.png", MDA TV | VE
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1326" tvg-name="Globovision" tvg-logo="https://cdn.m3u.cl/logo/1326_Globovision.png", Globovision | VE
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1327" tvg-name="TRT" tvg-logo="https://cdn.m3u.cl/logo/1327_TRT.png", TRT | VE
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1400" tvg-name="Torococo TV" tvg-logo="https://cdn.m3u.cl/logo/1400_Torococo_TV.png", Torococo TV | VE
+https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1439" tvg-name="Canal Diplomatico" tvg-logo="https://cdn.m3u.cl/logo/1439_Canal_Diplomatico.png", Canal Diplomatico | VE
+https://vcp7.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="145" tvg-name="Corazon Llanero" tvg-logo="https://cdn.m3u.cl/logo/145_Corazon_Llanero.png", Corazon Llanero | VE
+https://vcp11.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1440" tvg-name="Plous TV" tvg-logo="https://cdn.m3u.cl/logo/1440_Plous_TV.png", Plous TV | VE
+https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1438" tvg-name="Somos TV" tvg-logo="https://cdn.m3u.cl/logo/1438_Somos_TV.png", Somos TV | VE
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1573" tvg-name="Net Channel" tvg-logo="https://cdn.m3u.cl/logo/1573_Net_Channel.png", Net Channel | VE
+https://media.streambrothers.com:19360/8134/8134.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1575" tvg-name="Barinas TV" tvg-logo="https://cdn.m3u.cl/logo/1575_Barinas_TV.png", Barinas TV | VE
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1592" tvg-name="Televisora Andina de Merida" tvg-logo="https://cdn.m3u.cl/logo/1592_Televisora_Andina_de_Merida.png", Televisora Andina de Merida | VE
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1593" tvg-name="Aguacate TV" tvg-logo="https://cdn.m3u.cl/logo/1593_Aguacate_TV.png", Aguacate TV | VE
+https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1594" tvg-name="Guaro TV" tvg-logo="https://cdn.m3u.cl/logo/1594_Guaro_TV.png", Guaro TV | VE
+https://streamtv.intervenhosting.net:3061/live/guarotvbqtolive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1681" tvg-name="Net Channel Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1681_Net_Channel_Senal_2.png", Net Channel Señal 2 | VE
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1710" tvg-name="Grande Television" tvg-logo="https://cdn.m3u.cl/logo/1710_Grande_Television.png", Grande Television | VE
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8?PlaylistM3UCL
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -33245,3 +33350,33 @@ https://amg02051-soulpublishing-amg02051c5-lg-au-305.playouts.now.amagi.tv/playl
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 #EXTINF:0,TV Familia (720p)
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
