@@ -1,16 +1,39 @@
 #EXTM3U
+#EXTINF:28, TVS Maracay | VE
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
+#EXTINF:18, Antofagasta TV iptv-org
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:30,Megavisión TV (480p)
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:24,Avivamiento TV (1080p) [Not 24/7]
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:39,BBC America (720p)
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:36,Garage TV Argentina
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:30,Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:60,Deportes13 Ⓖ
+#EXTVLCOPT:network-caching=1000
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 #EXTINF:60,ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:31, Somos TV | VE
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:31, TRT | VE
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8?PlaylistM3UCL
+#EXTINF:59,ショップチャンネル
+#EXTVLCOPT:network-caching=1000
+https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:25,iCarly TV
 https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 #EXTINF:3623,Energia TV (720p) [Not 24/7]
 https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
 #EXTINF:30,Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:300,ウェザーニュースLiVE
+#EXTVLCOPT:network-caching=1000
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:23, Net Channel Señal 2 | VE
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 #EXTINF:60, Africanews
@@ -19,12 +42,21 @@ https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e4
 https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8?PlaylistM3UCL
 #EXTINF:30, TVS Maracay | VE
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
+#EXTINF:40,EBS 1 Ⓢ
+#EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:120,Telemundo Noticias Ahora
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:24,Antena Seis TV (720p) [Geo-blocked]
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+#EXTINF:40,EBS 2 Ⓢ
+#EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:62,Telenews TV
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
+#EXTINF:40,EBS Kids Ⓢ
+#EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:27, + Listas en M3U.CL ✪ | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:74,EnerGeek Retro Web
@@ -33,6 +65,8 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&Playl
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:25, Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24, Radio Frecuencia Uno | CL
+https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL
 #EXTINF:60,Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:171,USA: NBCSN Chicago
@@ -280,8 +314,6 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:0,Aviva TV (288p) [Not 24/7]
 https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
-#EXTINF:0,Avivamiento TV (1080p) [Not 24/7]
-https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:0,Awapa Sports TV (1080p) [Not 24/7]
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 #EXTINF:0,AXN Latin America South (2160p)
@@ -1078,7 +1110,7 @@ https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:0,EcuaMundo Radio TV (720p) [Not 24/7]
 https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
-#EXTINF:0,Ecuavisa Guayaquil (1080p) [Not 24/7]
+#EXTINF:100,Ecuavisa Guayaquil (1080p) [Not 24/7]
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:0,Ecuavisa Quito (1080p) [Not 24/7]
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
@@ -1274,8 +1306,6 @@ https://stream.esradioecuador.com/hls/stream.m3u8
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:0,Garabito TV (720p)
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-#EXTINF:0,Garage TV Latin America
-https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0,Gardenias TV (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
 #EXTINF:0,Gen
@@ -1712,8 +1742,6 @@ https://hdbox.chunklistv.com/live?stream=megabox
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0,Megavisión Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0,Megavisión TV (480p)
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:0,Mel Radio TV (360p)
 https://eu1.servers10.com:8081/8334/index.m3u8
 #EXTINF:0,Melrose Place
@@ -3505,8 +3533,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, ShowVen TV | VE
 https://vcp1.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, TVS Maracay | VE
-https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal i | VE
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Venevision | VE
@@ -4402,9 +4428,6 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTINF:0,UCL
 #EXTVLCOPT:network-caching=1000
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
-#EXTINF:0,Deportes13 Ⓖ
-#EXTVLCOPT:network-caching=1000
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 #EXTINF:0,TVN 3
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -6756,9 +6779,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:2
 #EXTINF:0,BS日テレ
 #EXTVLCOPT:network-caching=1000
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:0,BS朝日
-#EXTVLCOPT:network-caching=1000
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0,BS-TBS
 #EXTVLCOPT:network-caching=1000
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -6771,6 +6791,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:2
 #EXTINF:0,WOWOWプライム
 #EXTVLCOPT:network-caching=1000
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0,BS朝日
+#EXTVLCOPT:network-caching=1000
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0,WOWOWライブ
 #EXTVLCOPT:network-caching=1000
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -6804,9 +6827,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:2
 #EXTINF:0,日本映画専門チャンネル
 #EXTVLCOPT:network-caching=1000
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:0,ショップチャンネル
-#EXTVLCOPT:network-caching=1000
-https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:0,QVC
 #EXTVLCOPT:network-caching=1000
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
@@ -6876,9 +6896,6 @@ https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-
 #EXTINF:0,NHK WORLD JAPAN
 #EXTVLCOPT:network-caching=1000
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:0,ウェザーニュースLiVE
-#EXTVLCOPT:network-caching=1000
-https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:0,TOKYO MX チャンネル
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
@@ -6891,12 +6908,6 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 #EXTINF:0,KBS News D
 #EXTVLCOPT:network-caching=1000
 http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-#EXTINF:0,EBS 1 Ⓢ
-#EXTVLCOPT:network-caching=1000
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:0,EBS 2 Ⓢ
-#EXTVLCOPT:network-caching=1000
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:0,MBC TV
 #EXTVLCOPT:network-caching=1000
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
@@ -6930,9 +6941,6 @@ https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
 #EXTINF:0,Arirang
 #EXTVLCOPT:network-caching=1000
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0,EBS Kids Ⓢ
-#EXTVLCOPT:network-caching=1000
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:0,EBS Plus 1 Ⓢ
 #EXTVLCOPT:network-caching=1000
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
@@ -6960,12 +6968,10 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 #EXTINF:0,KBS World
 #EXTVLCOPT:network-caching=1000
 http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-#EXTINF:0,KBS Korea Ⓨ
-#EXTVLCOPT:network-caching=1000
-https://www.youtube.com/c/kbsworldtv/live
-#EXTINF:0,All the K-Pop Ⓨ
-#EXTVLCOPT:network-caching=1000
-https://www.youtube.com/c/ALLTHEKPOP/live
+#EXTINF:0,KBS WORLD TV - Vibing with K-POP | KBS WORLD TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1784831645/ei/PQpiar-EA-zFy_sP-_rFUA/ip/190.6.16.92/id/TIaAN-6TSk4.1~45744973/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51875302/txs/51875298%2C51875299%2C51875300%2C51875301%2C51875302/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AZFlqhPQjXB6Ol97HTLV-jNnHnpsbD-k9JznSRBY56WP0JlemK9BF88iDZLG8_C8OR9undQmIzrYPpDe/spc/SQ-umvy_UTHwHCOH6KJHrmtm9CsPfd0wvAq7yvnZl2mwLCkOXfe4NfNzl8Hspy0_iRtnDQ/vprv/1/go/1/ns/VH_qZhdE8i6XJ08ywNKZ1LkW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51992868/dover/11/n/YIIQ4SEdVe0O0gXa1/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgJcV-WCfpDa__evbFQRnUORBNg8CRC95c19ZgaNqSmOsCIHnEIu1D_FqyhKenf9rcRLv02ya_usCl4iFwJKn164a4/file/index.m3u8
+#EXTINF:0,ALL THE K-POP - [🔴LIVE] K-POP 24/7 Live Stream
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1784831648/ei/QApiaqq2EL-n0_wP1JW92QI/ip/190.6.16.92/id/tU2bRjRZx20.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51875302/txs/51875298%2C51875299%2C51875300%2C51875301%2C51875302/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AZFlqhNJJNYHtcckfKG_mB11qQEq5bvBQ9-LUszo5nXfh35b3V4FyhlQPky60heultEdQTspHSDmWvLa/spc/SQ-umoLhmkELTqGvejgEXrFZjveWAfI8fDshKfTbJ7KfshHWY3leyKQPVtPyOiE8n5gTkA/vprv/1/go/1/ns/uxob4gk42wA9bXDXTAdylaQW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51992868/dover/11/n/v4ySPcgBbS3uYHNPG/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIgGB7fq-_c5zxbTOfq69Asil1pXGjAUVwFYEw7neBVDBICIQCX7DZ3Ds12dCMXS5_B2E8AgJfULGnGXHJkwCRqG1aWqQ%3D%3D/file/index.m3u8
 #EXTINF:0,RTK 1
 #EXTVLCOPT:network-caching=1000
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
@@ -6978,7 +6984,7 @@ https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk.m3u8
 #EXTINF:0,RTK 4
 #EXTVLCOPT:network-caching=1000
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
-#EXTINF:0,ReTV
+#EXTINF:20,ReTV
 #EXTVLCOPT:network-caching=1000
 https://retv2132.bstrm.net/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:0,TV Jūrmala
@@ -8592,10 +8598,10 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0,NASA TV Media
 #EXTVLCOPT:network-caching=1000
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:0,BBC Food
+#EXTINF:25,BBC Food
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,BBC Home
+#EXTINF:25,BBC Home
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0,Docurama
@@ -9168,7 +9174,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511
 #EXTINF:0,Settimo Cielo – Pluto TV
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,BBC Drama – Pluto TV
+#EXTINF:25,BBC Drama – Pluto TV
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0,Le sorelle mcleod – Pluto TV
@@ -9508,8 +9514,6 @@ https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1ab3c7778230000735cf41&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=305&terminate=false&userId=
 #EXTINF:18, Antofagasta TV M3UCL
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:18, Antofagasta TV iptv-org
-https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:25,Nickelodeon en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 #EXTINF:30, Somos TV | VE
@@ -10892,8 +10896,6 @@ https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
 #EXTINF:0, Radio FM TOP | CL
 https://live20.bozztv.com/giatv/giatv-radiofmtop/radiofmtop/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Radio Frecuencia Uno | CL
-https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL
 #EXTINF:0, Radio Genial TV | CL
 https://v1.tustreaming.cl:443/genialtv/index.m3u8?PlaylistM3UCL
 #EXTINF:0, Radio Hoy | CL
@@ -14505,8 +14507,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:0,Stadium USA EN
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
-#EXTINF:0,Garage TV Argentina
-https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0,Int. Table Soccer Federation
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333
 #EXTINF:0,Sol Música España
@@ -14723,7 +14723,7 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
 #EXTINF:0,3 Tamil TV (720p) [Not 24/7]
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:0,4DmásNoticias TV (1080p) [Not 24/7]
+#EXTINF:30,4DmásNoticias TV (1080p) [Not 24/7]
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:0,4E (1080p)
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
@@ -16675,7 +16675,7 @@ https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
 https://apollo.production-public.tubi.io/live/ac-dr-who.m3u8
 #EXTINF:0,BBC Drama
 https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,BBC Drama
+#EXTINF:25,BBC Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eff52b4b-c804-4f5a-968a-d48a2898e184
 #EXTINF:0,BBC Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -16685,7 +16685,7 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
 #EXTINF:0,BBC Four HD (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
-#EXTINF:0,BBC Home & Garden
+#EXTINF:25,BBC Home & Garden
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
 #EXTINF:0,BBC Impossible
 https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
@@ -24457,7 +24457,7 @@ https://www.amixtv.com:8081/mayavision/index.m3u8
 https://live.mytv.yt:3946/multi_web/play.m3u8
 #EXTINF:0,Mayyazhi (720p) [Not 24/7]
 http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
-#EXTINF:0,Mazhavil Manorama (396p)
+#EXTINF:32,Mazhavil Manorama (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:0,MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
@@ -25966,8 +25966,6 @@ https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 #EXTINF:0,Baywatch (1080p)
 https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
-#EXTINF:0,BBC America (720p)
-http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:0,BBC America East HD (720p)
 http://40.160.24.52/BBC_AMERICA/index.m3u8
 #EXTINF:0, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment" - BBC Brit
